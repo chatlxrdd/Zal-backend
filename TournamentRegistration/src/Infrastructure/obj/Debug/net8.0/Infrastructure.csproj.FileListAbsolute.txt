@@ -1,0 +1,15 @@
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Infrastructure/bin/Debug/net8.0/Core.dll
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Infrastructure/bin/Debug/net8.0/Core.pdb
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Infrastructure/obj/Debug/net8.0/Infrastr.15EFFBFE.Up2Date
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll

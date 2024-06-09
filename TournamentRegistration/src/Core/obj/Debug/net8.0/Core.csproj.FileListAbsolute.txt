@@ -1,0 +1,11 @@
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Core/bin/Debug/net8.0/Core.deps.json
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Core/bin/Debug/net8.0/Core.dll
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Core/bin/Debug/net8.0/Core.pdb
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Core/obj/Debug/net8.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Core/obj/Debug/net8.0/Core.AssemblyInfoInputs.cache
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Core/obj/Debug/net8.0/Core.AssemblyInfo.cs
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Core/obj/Debug/net8.0/Core.csproj.CoreCompileInputs.cache
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Core/obj/Debug/net8.0/Core.dll
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Core/obj/Debug/net8.0/refint/Core.dll
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Core/obj/Debug/net8.0/Core.pdb
+/Users/chatlxrd/Documents/GitHub/Zal-backend/TournamentRegistration/src/Core/obj/Debug/net8.0/ref/Core.dll

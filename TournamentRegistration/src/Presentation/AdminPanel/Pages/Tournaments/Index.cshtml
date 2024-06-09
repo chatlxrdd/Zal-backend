@@ -1,0 +1,27 @@
+@page
+@model AdminPanel.Pages.Tournaments.IndexModel
+@{
+    ViewData["Title"] = "Turnieje";
+}
+
+<h2>Turnieje</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nazwa</th>
+            <th>Data</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tournament in Model.Tournaments)
+        {
+            <tr>
+                <td>@tournament.Name</td>
+                <td>@tournament.Date.ToShortDateString()</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-page="./Create" class="btn btn-primary">Dodaj Turniej</a>
